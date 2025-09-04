@@ -152,3 +152,13 @@ In-Game Purchases, Users Interact"`
 - Use **hybrid/fluid** pattern for better Outlook consistency on desktop.  
 
 Good luck, soldier. Attention to detail wins this battle. 🪖💥
+
+
+
+bodybg: 000000
+footerbg: 1d1e20
+primarybutton: fe3a00
+whitetext: FFFFFF
+text-header: bfcad1
+text-footer: bfcad1
+https://coolors.co/palette/000000-1d1e20-fe3a00-ffffff-bfcad1
